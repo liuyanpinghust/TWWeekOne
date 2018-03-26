@@ -2,3 +2,7 @@
 This is the master file.
 Today is Monday.
 --------------------------------------
+This is the master file.
+This is the second change.
+This is from master file.
+--------------------------------------
