@@ -2,3 +2,6 @@
 This is the test.txt file.
 This is the first commit of this file.
 --------------------------------------------
+This is the second commit of this file.
+This is the test branch.
+------------------------------------------
